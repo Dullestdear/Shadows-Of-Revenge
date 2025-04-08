@@ -72,6 +72,4 @@ python Latest.py
 
 ## Credits
 
-- Game developed by [Your Name]
-- Music: [Credits for music tracks]
-- Fonts: OldLondon font 
+- Game developed by Prakhar Bhatnagar , Ayaan Malek , Sulaksh Patnaik , Abhishek Rathod 
